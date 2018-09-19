@@ -1,0 +1,17 @@
+package br.com.fiap.main;
+
+import br.com.fiap.bean.Conta;
+import br.com.fiap.view.Leia;
+
+public class TesteConta {
+	public static void main(String[] args) {
+		Conta c = new Conta();
+		try { //Colocar linhas onde podem acontecer exceção
+		c.setSaldo(Leia.decimal("Digite o Saldo"));
+		} catch(Exception e) { //sempre teremos que criar um parametro para o catch
+			System.out.println("Ocorreu um erro! 404x21992");
+		} finally { //bloco opcional executar independente do que ocorra
+			System.out.println("Até logo!");
+		}
+	}
+}

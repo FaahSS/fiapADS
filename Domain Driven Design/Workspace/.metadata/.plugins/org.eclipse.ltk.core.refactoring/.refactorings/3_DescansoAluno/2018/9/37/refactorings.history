@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.com.fiap.view.Magica&apos; to &apos;Leia&apos;&#x0D;&#x0A;- Original project: &apos;3_DescansoAluno&apos;&#x0D;&#x0A;- Original element: &apos;br.com.fiap.view.Magica&apos;&#x0D;&#x0A;- Renamed element: &apos;br.com.fiap.view.Leia&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Magica&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;br.com.fiap.view{Magica.java[Magica" matchStrategy="1" name="Leia" qualified="false" references="true" similarDeclarations="false" stamp="1536457469166" textual="false" version="1.0"/>
+</session>
