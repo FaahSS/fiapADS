@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete 2 elements from project &apos;CalculadoraSoma&apos;&#x0D;&#x0A;- Original project: &apos;CalculadoraSoma&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     CalculadoraSoma/src/br.com.fiap.Main&#x0D;&#x0A;     CalculadoraSoma/src/br.com.fiap.Modelo" description="Delete elements" element1="/src&lt;br.com.fiap.Modelo" element2="/src&lt;br.com.fiap" element3="/src&lt;br.com" element4="/src&lt;br" element5="/src&lt;br.com.fiap.Main" element6="/src&lt;br.com.fiap" element7="/src&lt;br.com" element8="/src&lt;br" elements="8" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1523548752822" subPackages="false" version="1.0"/>
-</session>

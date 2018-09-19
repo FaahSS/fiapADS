@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="br.com.fiap.modelo.Produto"/>
-<fullyQualifiedTypeName name="br.com.fiap.modelo.Aluno"/>
-<fullyQualifiedTypeName name="br.com.fiap.modelo.Curso"/>
-<fullyQualifiedTypeName name="br.com.fiap.view.Leia"/>
-<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
-<fullyQualifiedTypeName name="br.com.fiap.exception.Excecao"/>
-</qualifiedTypeNameHistroy>
