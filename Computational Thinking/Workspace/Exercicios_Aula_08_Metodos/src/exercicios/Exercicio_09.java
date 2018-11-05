@@ -93,6 +93,7 @@ public class Exercicio_09 {
 			}
 		}
 		return trimestre;
+
 	}
 	
 	//D
