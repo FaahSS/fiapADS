@@ -4,7 +4,7 @@ public class Cargo implements Comparable<Cargo> {
 	private String nome;
 	private double salario;
 	private String nivel;
-	/*public int compareTo(Cargo outro) {
+	public int compareTo(Cargo outro) {
 		if (this.salario<outro.salario) {
 			return -1;
 		} else if (this.salario<outro.salario) {
@@ -12,16 +12,16 @@ public class Cargo implements Comparable<Cargo> {
 		} else {
 			return 0;
 		}
-	}*/
+	}
 	/*
 	public int compareTo(Cargo outro) {
 		return this.nome.compareTo(outro.nome);
 	}
 	*/
 	//Inverso
-	public int compareTo(Cargo outro) {
-		return -this.nome.compareTo(outro.nome);
-	}
+	//	public int compareTo(Cargo outro) {
+		//	return -this.nome.compareTo(outro.nome);
+		//}
 	
 	public Cargo(String nome, double salario, String nivel) {
 		super();
